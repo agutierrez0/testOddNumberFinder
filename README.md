@@ -2,6 +2,7 @@
 Returns odd numbers found in a string.
 
 by Angel Gutierrez
+
 This program finds the odd numbers in the user's input.
 
 Examples:
